@@ -30,7 +30,7 @@ The dataset comes from Kaggle and contains sales data from Amazon’s electronic
 
 ## ✅ What I Did
 
-Here’s a quick breakdown of the steps I followed:
+Following are the breakdown of steps which I followed:
 
 - 🧪 **Loaded and explored** the dataset  
 - 🧹 **Cleaned and preprocessed** the data to make it analysis-ready  
