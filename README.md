@@ -18,7 +18,7 @@ Matplotlib & Seaborn – For building easy-to-read visualizations
 📁 About the Dataset
 The dataset comes from Kaggle and contains sales data from Amazon’s electronics category.
 
-🔗 View on Kaggle
+🔗 View on Kaggle : https://www.kaggle.com/datasets/edusanketdk/electronics
 
 Note: You’ll need a (free) Kaggle account to access it.
 
