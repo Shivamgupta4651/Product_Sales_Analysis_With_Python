@@ -16,11 +16,9 @@ NumPy – For number crunching
 Matplotlib & Seaborn – For building easy-to-read visualizations
 
 📁 About the Dataset
-The dataset comes from Kaggle and contains sales data from Amazon’s electronics category.
+The dataset used in this project is available publicly on Kaggle: https://www.kaggle.com/datasets/edusanketdk/electronics
 
-🔗 View on Kaggle : https://www.kaggle.com/datasets/edusanketdk/electronics
-
-Note: You’ll need a (free) Kaggle account to access it.
+Please note that you may need to create a free Kaggle account to access the dataset.
 
 ✅ What I Did
 Here’s a quick breakdown of the steps I followed:
